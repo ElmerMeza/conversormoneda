@@ -1,2 +1,2 @@
 # conversormoneda
-Desafío con Java
+Este es el desafio de coversor de monedas de Alura Latam hecho con java y el API de ExchangeRate
